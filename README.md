@@ -2,6 +2,10 @@
 
 A simple, beautiful file explorer for Cloudflare R2 buckets built with SvelteKit. This is a static website that can be hosted on GitHub Pages or any static hosting service.
 
+## 🚀 Live Demo
+
+**[Try the Live Demo →](https://freehuntx.github.io/r2-bucket-ui)**
+
 ## Features
 
 - 📁 **File Browser**: Navigate through folders and files in your R2 bucket
